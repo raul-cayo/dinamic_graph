@@ -1,7 +1,7 @@
 # dinamic_graph
 Dynamic graph C++ library
 
-The only header needed is "graph.h"
+The only header that needs to be included is "graph.h"
 
 Brief description of the class Graph provided by this library:
   - Works with string vertices and int weights.
